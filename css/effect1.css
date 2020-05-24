@@ -1,0 +1,195 @@
+.mediaViewInfo {
+	--web-view-name: effect1;
+	--web-view-id: effect1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: effect1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#effect1 {
+	position: absolute;
+	width: 360px;
+	height: 640px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: effect1;
+	--web-view-id: effect1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_5 {
+	opacity: 0;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 6px;
+	height: 629px;
+	left: 6px;
+	top: 6px;
+}
+#sign_mR {
+	opacity: 0.43;
+	position: absolute;
+	width: 139px;
+	height: 111px;
+	left: 207px;
+	top: 265px;
+	overflow: visible;
+}
+#Layer_0 {
+	position: absolute;
+	width: 139px;
+	height: 111px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_2 {
+	opacity: 0;
+	position: absolute;
+	width: 9.885px;
+	height: 14.393px;
+	left: 187.115px;
+	top: 101.468px;
+	overflow: visible;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 3.868px;
+	height: 14.183px;
+	transform: translate(-202.115px, -41.468px) matrix(1,0,0,1,205.1237,41.573) rotate(27deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 3.868px;
+	height: 14.183px;
+	transform: translate(-202.115px, -41.468px) matrix(1,0,0,1,205.1237,41.573) rotate(-27deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1 {
+	opacity: 0;
+	position: absolute;
+	width: 94px;
+	height: 83px;
+	left: -48px;
+	top: 279px;
+	overflow: hidden;
+}
+#Repeat_Grid_1_0 {
+	position: absolute;
+	width: 97px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	height: 38px;
+	left: 0px;
+	top: 0px;
+}
+#Repeat_Grid_1_1 {
+	position: absolute;
+	width: 97px;
+	height: 36px;
+	left: 0px;
+	top: 44px;
+	overflow: visible;
+}
+.Rectangle_7_u {
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	height: 38px;
+	left: 0px;
+	top: 0px;
+}
+#HOME {
+	opacity: 0;
+	filter: drop-shadow(0px 2px 1px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	left: -29px;
+	top: 281px;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#CONTACT_ {
+	opacity: 0;
+	filter: drop-shadow(0px 2px 1px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	left: -44px;
+	top: 326px;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#DESIGN_BY_MR_EDITS {
+	opacity: 0;
+	position: absolute;
+	width: 99px;
+	height: 43px;
+	left: -71px;
+	top: 561px;
+	overflow: visible;
+}
+#Designed_By {
+	filter: drop-shadow(0px 2px 1px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(0,0,0,1);
+}
+#MR_Editz {
+	filter: drop-shadow(0px 3px 1px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	left: 18px;
+	top: 24px;
+	overflow: visible;
+	width: 56px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(10,169,181,1);
+}

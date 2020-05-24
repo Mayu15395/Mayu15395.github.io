@@ -1,0 +1,82 @@
+.mediaViewInfo {
+	--web-view-name: effect3;
+	--web-view-id: effect3;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: effect3;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#effect3 {
+	position: absolute;
+	width: 360px;
+	height: 640px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: effect3;
+	--web-view-id: effect3;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#sign_mR {
+	opacity: 0.43;
+	position: absolute;
+	width: 139px;
+	height: 111px;
+	left: 207px;
+	top: 265px;
+	overflow: visible;
+}
+#Layer_0 {
+	position: absolute;
+	width: 139px;
+	height: 111px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_2 {
+	position: absolute;
+	width: 9.885px;
+	height: 14.393px;
+	left: 187.115px;
+	top: 101.468px;
+	overflow: visible;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 3.868px;
+	height: 14.183px;
+	transform: translate(-202.115px, -41.468px) matrix(1,0,0,1,205.1237,41.573) rotate(27deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 3.868px;
+	height: 14.183px;
+	transform: translate(-202.115px, -41.468px) matrix(1,0,0,1,205.1237,41.573) rotate(-27deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_6 {
+	opacity: 0;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 629px;
+	left: 17px;
+	top: 6px;
+}
