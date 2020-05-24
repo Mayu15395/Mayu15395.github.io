@@ -1,21 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://siddhikerkar.com/index.html</loc>
-    <lastmod>2020-02-08</lastmod>
+    <loc>http://www.mreditz.com/index.html</loc>
+    <lastmod>2020-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.mreditz.com/images/group%201.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mreditz.com/images/sign%20mr.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mreditz.com/images/sign%20mr153x122.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mreditz.com/images/sign%20mr138x111.png</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://siddhikerkar.com/about.html</loc>
-    <lastmod>2020-02-08</lastmod>
+    <loc>http://www.mreditz.com/slide-bar.html</loc>
+    <lastmod>2020-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://siddhikerkar.com/contact-us.html</loc>
-    <lastmod>2020-02-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.mreditz.com/images/close%20button.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mreditz.com/images/sign%20mr2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.mreditz.com/images/design%20by%20mr%20edits.png</image:loc>
+    </image:image>
   </url>
 </urlset>
