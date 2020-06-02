@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mreditz.com" resolutions="1x" timestamp="1590330055321">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mreditz.com" resolutions="1x" timestamp="1591103680630">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="slide-bar.css" crc="3807400526" ref="slide-bar"/>
-    <file name="index.css" crc="111316868" ref="index"/>
-    <file name="nomq_index.css" crc="200330532" ref="index"/>
+    <file name="slide-bar.css" crc="420769431" ref="slide-bar"/>
+    <file name="index.css" crc="3928453421" ref="index"/>
+    <file name="nomq_index.css" crc="3980153869" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:slide-bar"/>
@@ -13,20 +13,15 @@
     <file name="jquery.watch.js" crc="51536988" ref="index:slide-bar"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
     <file name="require.js" crc="7928878" ref="index:slide-bar"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:slide-bar"/>
   </folder>
   <folder name="images">
-    <file name="group 1.png" crc="358313835" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sign mr.png" crc="89867365" seo="true" ref="index">
+    <file name="group 1.png" crc="266765298" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sign mr153x122.png" crc="397627237" seo="true" ref="index">
+    <file name="sign mr.png" crc="498562783" seo="true" ref="index:slide-bar">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="sign mr138x111.png" crc="295170705" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+      <caption webpage="slide-bar" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="close button.png" crc="4193732157" seo="true" ref="slide-bar">
@@ -34,13 +29,14 @@
     </file>
     <file name="u523-4.png" crc="122104282" ref="slide-bar"/>
     <file name="u526-4.png" crc="362699770" ref="slide-bar"/>
-    <file name="sign mr2.png" crc="51859272" seo="true" ref="slide-bar">
-      <caption webpage="slide-bar" alt=""/>
-    </file>
     <file name="design by mr edits.png" crc="3964671581" seo="true" ref="slide-bar">
       <caption webpage="slide-bar" alt=""/>
     </file>
+    <file name="sign mr-u1011-fr.png" crc="4071058776" ref="index"/>
+    <file name="sign mr-u1011-fr2.png" crc="3825223037" ref="index"/>
+    <file name="sign mr-u1011-fr3.png" crc="54707763" ref="index"/>
+    <file name="sign mr-u531-fr.png" crc="51859272" ref="slide-bar"/>
   </folder>
-  <file name="index.html" crc="513118943" seo="true" mt="1590330042014" redirect="true"/>
-  <file name="slide-bar.html" crc="4163501021" seo="true" mt="1590329418787" redirect="true"/>
+  <file name="index.html" crc="4098147768" seo="true" mt="1591103611527" redirect="true"/>
+  <file name="slide-bar.html" crc="4269249979" seo="true" mt="1591102404048" redirect="true"/>
 </manifest>
