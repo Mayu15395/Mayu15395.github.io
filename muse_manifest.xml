@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mreditz.com" resolutions="1x" timestamp="1591103680630">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.mreditz.com" resolutions="1x" timestamp="1591104721794">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="slide-bar.css" crc="420769431" ref="slide-bar"/>
-    <file name="index.css" crc="3928453421" ref="index"/>
-    <file name="nomq_index.css" crc="3980153869" ref="index"/>
+    <file name="slide-bar.css" crc="4254183081" ref="slide-bar"/>
+    <file name="index.css" crc="3992343820" ref="index"/>
+    <file name="nomq_index.css" crc="149432866" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:slide-bar"/>
@@ -37,6 +37,6 @@
     <file name="sign mr-u1011-fr3.png" crc="54707763" ref="index"/>
     <file name="sign mr-u531-fr.png" crc="51859272" ref="slide-bar"/>
   </folder>
-  <file name="index.html" crc="4098147768" seo="true" mt="1591103611527" redirect="true"/>
-  <file name="slide-bar.html" crc="4269249979" seo="true" mt="1591102404048" redirect="true"/>
+  <file name="index.html" crc="52020184" seo="true" mt="1591104711639" redirect="true"/>
+  <file name="slide-bar.html" crc="3903296700" seo="true" mt="1591104668349" redirect="true"/>
 </manifest>
