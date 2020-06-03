@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.MREditz.com" resolutions="1x" timestamp="1591190222006">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.MREditz.com" resolutions="1x" timestamp="1591192006647">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4112284708" ref="index"/>
-    <file name="nomq_index.css" crc="263131100" ref="index"/>
-    <file name="master_a-master.css" crc="223662738" ref="project:index"/>
+    <file name="index.css" crc="402125648" ref="index"/>
+    <file name="nomq_index.css" crc="3876346917" ref="index"/>
+    <file name="master_a-master.css" crc="4519288" ref="project:index"/>
     <file name="nomq_preview_master_a-master.css" crc="307514872" ref="project:index"/>
-    <file name="project.css" crc="4263291018" ref="project"/>
-    <file name="nomq_project.css" crc="3899165440" ref="project"/>
+    <file name="project.css" crc="83559586" ref="project"/>
+    <file name="nomq_project.css" crc="278810066" ref="project"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:project"/>
@@ -20,6 +20,7 @@
   </folder>
   <folder name="images">
     <file name="sign mr.png" crc="10709717" ref="index:project">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="slide-bar" alt=""/>
@@ -41,15 +42,16 @@
     <file name="1200px-adobe_dreamweaver_cc_iconsvg-u455-r.png" crc="4064743533" ref="project"/>
     <file name="1200px-adobe_muse_cc_iconsvg-u421.png" crc="506796557" ref="project"/>
     <file name="1200px-adobe_muse_cc_iconsvg-u421-r.png" crc="3968268927" ref="project"/>
-    <file name="1200px-adobe_xd_cc_iconsvg-u481.png" crc="297678565" ref="project"/>
-    <file name="1200px-adobe_xd_cc_iconsvg-u481-r.png" crc="3780430160" ref="project"/>
-    <file name="maya-2017-logo-png-transparent-svg-vector-freebie-supply-maya-logo-png-2400_2283-u472.png" crc="4018575844" ref="project"/>
-    <file name="maya-2017-logo-png-transparent-svg-vector-freebie-supply-maya-logo-png-2400_2283-u472-r.png" crc="4148576361" ref="project"/>
+    <file name="1200px-adobe_xd_cc_iconsvg-u481.png" crc="129676960" ref="project"/>
+    <file name="1200px-adobe_xd_cc_iconsvg-u481-r.png" crc="4125244864" ref="project"/>
+    <file name="maya-2017-logo-png-transparent-svg-vector-freebie-supply-maya-logo-png-2400_2283-u472.png" crc="484739543" ref="project"/>
+    <file name="maya-2017-logo-png-transparent-svg-vector-freebie-supply-maya-logo-png-2400_2283-u472-r.png" crc="4277082358" ref="project"/>
     <file name="adobe-after-effects-png-7-u3972.png" crc="4293707210" ref="project"/>
     <file name="adobe-after-effects-png-7-u397-r2.png" crc="3939413434" ref="project"/>
     <file name="photoshop-logo-photography-tehnoblog-21-u4092.png" crc="474545906" ref="project"/>
     <file name="photoshop-logo-photography-tehnoblog-21-u409-r2.png" crc="442762753" ref="project"/>
     <file name="close button2.png" crc="201234373" ref="project">
+      <caption webpage="project" alt=""/>
       <caption webpage="project" alt=""/>
     </file>
     <file name="1200px-adobe_dreamweaver_cc_iconsvg-u4552.png" crc="4063527986" ref="project"/>
@@ -61,7 +63,19 @@
     <file name="1200px-adobe_xd_cc_iconsvg-u4812.png" crc="4139732091" ref="project"/>
     <file name="1200px-adobe_xd_cc_iconsvg-u481-r2.png" crc="4187823714" ref="project"/>
     <file name="sign mr-u759-fr.png" crc="181752687" ref="project"/>
+    <file name="adobe-after-effects-png-7-u3973.png" crc="4293707210" ref="project"/>
+    <file name="adobe-after-effects-png-7-u397-r3.png" crc="3939413434" ref="project"/>
+    <file name="photoshop-logo-photography-tehnoblog-21-u4093.png" crc="474545906" ref="project"/>
+    <file name="photoshop-logo-photography-tehnoblog-21-u409-r3.png" crc="442762753" ref="project"/>
+    <file name="1200px-adobe_dreamweaver_cc_iconsvg-u4553.png" crc="4063527986" ref="project"/>
+    <file name="1200px-adobe_dreamweaver_cc_iconsvg-u455-r3.png" crc="4241078247" ref="project"/>
+    <file name="1200px-adobe_muse_cc_iconsvg-u4213.png" crc="126061304" ref="project"/>
+    <file name="1200px-adobe_muse_cc_iconsvg-u421-r3.png" crc="513422621" ref="project"/>
+    <file name="maya-2017-logo-png-transparent-svg-vector-freebie-supply-maya-logo-png-2400_2283-u4723.png" crc="4294013278" ref="project"/>
+    <file name="maya-2017-logo-png-transparent-svg-vector-freebie-supply-maya-logo-png-2400_2283-u472-r3.png" crc="40461024" ref="project"/>
+    <file name="1200px-adobe_xd_cc_iconsvg-u4813.png" crc="4139732091" ref="project"/>
+    <file name="1200px-adobe_xd_cc_iconsvg-u481-r3.png" crc="4187823714" ref="project"/>
   </folder>
-  <file name="index.html" crc="4037564560" seo="true" mt="1591189062556" redirect="true"/>
-  <file name="project.html" crc="4065447116" seo="true" mt="1591190139442" redirect="true"/>
+  <file name="index.html" crc="219295881" seo="true" mt="1591191918208" redirect="true"/>
+  <file name="project.html" crc="512289829" seo="true" mt="1591191831569" redirect="true"/>
 </manifest>
