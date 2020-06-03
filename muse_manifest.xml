@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.MREditz.com" resolutions="1x" timestamp="1591192153237">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.MREditz.com" resolutions="1x" timestamp="1591194160476">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="402125648" ref="index"/>
-    <file name="nomq_index.css" crc="3876346917" ref="index"/>
+    <file name="index.css" crc="3972187555" ref="index"/>
+    <file name="nomq_index.css" crc="4287689362" ref="index"/>
     <file name="master_a-master.css" crc="4519288" ref="project:index"/>
     <file name="nomq_preview_master_a-master.css" crc="307514872" ref="project:index"/>
     <file name="project.css" crc="83559586" ref="project"/>
@@ -17,6 +17,7 @@
     <file name="jquery.museresponsive.js" crc="527716135" ref="index:project"/>
     <file name="require.js" crc="7928878" ref="index:project"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:project"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
   </folder>
   <folder name="images">
     <file name="sign mr.png" crc="10709717" ref="index:project">
@@ -75,7 +76,17 @@
     <file name="maya-2017-logo-png-transparent-svg-vector-freebie-supply-maya-logo-png-2400_2283-u472-r3.png" crc="40461024" ref="project"/>
     <file name="1200px-adobe_xd_cc_iconsvg-u4813.png" crc="4139732091" ref="project"/>
     <file name="1200px-adobe_xd_cc_iconsvg-u481-r3.png" crc="4187823714" ref="project"/>
+    <file name="untitled-1.png" crc="4023495562" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sign mr2.png" crc="291415541" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="219295881" seo="true" mt="1591191918208" redirect="true"/>
+  <file name="index.html" crc="336715419" seo="true" mt="1591194136823" redirect="true"/>
   <file name="project.html" crc="512289829" seo="true" mt="1591191831569" redirect="true"/>
 </manifest>
