@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.MReditz.com" resolutions="1x,2x" timestamp="1591270816338">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.MReditz.com" resolutions="1x,2x" timestamp="1591271078240">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4163918584" ref="index"/>
+    <file name="index.css" crc="373842994" ref="index"/>
     <file name="nomq_index.css" crc="300017311" ref="index"/>
     <file name="master_a-master.css" crc="395510919" ref="project:index:about"/>
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="project:index:about"/>
-    <file name="project.css" crc="4063804679" ref="project"/>
-    <file name="nomq_project.css" crc="371985769" ref="project"/>
+    <file name="project.css" crc="4210056866" ref="project"/>
+    <file name="nomq_project.css" crc="497283434" ref="project"/>
     <file name="about.css" crc="167083377" ref="about"/>
     <file name="nomq_about.css" crc="4290406973" ref="about"/>
   </folder>
@@ -256,7 +256,7 @@
     <file name="1200px-adobe_xd_cc_iconsvg-u469-r8.png" crc="3869519598" ref="project"/>
     <file name="1200px-adobe_xd_cc_iconsvg-u469-r_2x8.png" crc="4126987252" ref="project"/>
   </folder>
-  <file name="index.html" crc="513957575" seo="true" mt="1591270737081" redirect="true"/>
-  <file name="project.html" crc="3848973488" seo="true" mt="1591270736847" redirect="true"/>
+  <file name="index.html" crc="4188742316" seo="true" mt="1591271058710" redirect="true"/>
+  <file name="project.html" crc="4146755360" seo="true" mt="1591271022429" redirect="true"/>
   <file name="about.html" crc="469576426" seo="true" mt="1591270563723" redirect="true"/>
 </manifest>
