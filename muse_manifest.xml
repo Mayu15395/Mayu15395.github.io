@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.MReditz.com" resolutions="1x,2x" timestamp="1591271078240">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.MReditz.com" resolutions="1x,2x" timestamp="1591271513259">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="373842994" ref="index"/>
@@ -7,8 +7,8 @@
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="project:index:about"/>
     <file name="project.css" crc="4210056866" ref="project"/>
     <file name="nomq_project.css" crc="497283434" ref="project"/>
-    <file name="about.css" crc="167083377" ref="about"/>
-    <file name="nomq_about.css" crc="4290406973" ref="about"/>
+    <file name="about.css" crc="4195550536" ref="about"/>
+    <file name="nomq_about.css" crc="484117702" ref="about"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:project:about"/>
@@ -27,7 +27,7 @@
       <caption webpage="project" alt=""/>
       <caption webpage="project" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:project:about"/>
+    <file name="blank.gif" crc="4208392903" ref="index:project"/>
     <file name="group 1.png" crc="104169306" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -38,9 +38,11 @@
     <file name="sign mr-u146-m-fr_2x.png" crc="134149578" ref="index"/>
     <file name="design by mr edits.png" crc="4222858351" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="design by mr edits_2x.png" crc="126192214" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="group 1_2x.png" crc="4018668558" ref="index">
       <caption webpage="index" alt=""/>
@@ -255,8 +257,24 @@
     <file name="1200px-adobe_xd_cc_iconsvg-u469_2x8.png" crc="3793375084" ref="project"/>
     <file name="1200px-adobe_xd_cc_iconsvg-u469-r8.png" crc="3869519598" ref="project"/>
     <file name="1200px-adobe_xd_cc_iconsvg-u469-r_2x8.png" crc="4126987252" ref="project"/>
+    <file name="underconstruction.jpg" crc="142150609" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="underconstruction_2x.jpg" crc="351770052" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="underconstruction-u1133-fr.jpg" crc="4279106253" ref="about"/>
+    <file name="underconstruction-u1133-fr_2x.jpg" crc="4072440316" ref="about"/>
+    <file name="underconstruction-u1133-fr2.jpg" crc="458595953" ref="about"/>
+    <file name="underconstruction-u1133-fr_2x2.jpg" crc="3924604857" ref="about"/>
+    <file name="underconstruction-u1133-fr3.jpg" crc="120478716" ref="about"/>
+    <file name="underconstruction-u1133-fr_2x3.jpg" crc="25090745" ref="about"/>
+    <file name="underconstruction-u1133-fr4.jpg" crc="396715685" ref="about"/>
+    <file name="underconstruction-u1133-fr_2x4.jpg" crc="3994694350" ref="about"/>
+    <file name="underconstruction-u1133-fr5.jpg" crc="3919187296" ref="about"/>
+    <file name="underconstruction-u1133-fr_2x5.jpg" crc="259726055" ref="about"/>
   </folder>
   <file name="index.html" crc="4188742316" seo="true" mt="1591271058710" redirect="true"/>
   <file name="project.html" crc="4146755360" seo="true" mt="1591271022429" redirect="true"/>
-  <file name="about.html" crc="469576426" seo="true" mt="1591270563723" redirect="true"/>
+  <file name="about.html" crc="4116570475" seo="true" mt="1591271512562" redirect="true"/>
 </manifest>
