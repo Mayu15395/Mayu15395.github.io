@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.MReditz.com" resolutions="1x,2x" timestamp="1591271513259">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.MReditz.com" resolutions="1x,2x" timestamp="1591271723976">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="373842994" ref="index"/>
@@ -7,8 +7,8 @@
     <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="project:index:about"/>
     <file name="project.css" crc="4210056866" ref="project"/>
     <file name="nomq_project.css" crc="497283434" ref="project"/>
-    <file name="about.css" crc="4195550536" ref="about"/>
-    <file name="nomq_about.css" crc="484117702" ref="about"/>
+    <file name="about.css" crc="255454237" ref="about"/>
+    <file name="nomq_about.css" crc="516384460" ref="about"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:project:about"/>
@@ -273,8 +273,10 @@
     <file name="underconstruction-u1133-fr_2x4.jpg" crc="3994694350" ref="about"/>
     <file name="underconstruction-u1133-fr5.jpg" crc="3919187296" ref="about"/>
     <file name="underconstruction-u1133-fr_2x5.jpg" crc="259726055" ref="about"/>
+    <file name="close button-u1155-fr.png" crc="275832877" ref="about"/>
+    <file name="close button-u1155-fr_2x.png" crc="321419164" ref="about"/>
   </folder>
   <file name="index.html" crc="4188742316" seo="true" mt="1591271058710" redirect="true"/>
   <file name="project.html" crc="4146755360" seo="true" mt="1591271022429" redirect="true"/>
-  <file name="about.html" crc="4116570475" seo="true" mt="1591271512562" redirect="true"/>
+  <file name="about.html" crc="4224547461" seo="true" mt="1591271691697" redirect="true"/>
 </manifest>
